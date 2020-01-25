@@ -17,13 +17,11 @@
  *
  * @package WordPress
  */
-define('WP_CACHE', true);
-define( 'WPCACHEHOME', 'E:\Workspace\OSPanel\domains\new-wp\wp-content\plugins\wp-super-cache/' );
 define( 'WP_MEMORY_LIMIT', '96M' );
 
 // ** Параметры MySQL: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'castom-theme' );
+define( 'DB_NAME', 'wp-shop' );
 
 /** Имя пользователя MySQL */
 define( 'DB_USER', 'root' );
